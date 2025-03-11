@@ -8,7 +8,7 @@ An open-source physics experiment challenging Maxwell's equations
 
 ## 如何参与  
 - 电工/机械师：改进磁场线圈设计  
-- 学生：处理实验数据  
+- 学生：处理实验数据/汉译英  
 - 投资者：赞助关键零件  
 
 
