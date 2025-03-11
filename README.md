@@ -11,7 +11,5 @@ An open-source physics experiment challenging Maxwell's equations
 - 学生：处理实验数据  
 - 投资者：赞助关键零件  
 
-## 最新突破（2025.02.28）  
-成功用电磁铁观测到0.1pN量级力信号！
 
 
